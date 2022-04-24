@@ -1,0 +1,14 @@
+.progress {
+    height: 25px;
+}
+
+.progress-bar {
+    background-color: darkcyan;
+    height: 100%;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: inherit;
+    color: darkcyan;
+}
