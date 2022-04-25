@@ -12,3 +12,7 @@ a {
     text-decoration: inherit;
     color: darkcyan;
 }
+
+footer {
+    font-size: 10px;
+}
